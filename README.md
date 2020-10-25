@@ -87,7 +87,7 @@ I am a Full Stack Developer & Tutor. When I'm not developing, you can usually fi
 
 ✈ I'm fascinated with all-things travel! 🌍
 
-Places I've been (hover flag to see name):
+Places I've been:
 
 ![Armenia](https://www.countryflags.io/am/flat/32.png)
 ![Australia](https://www.countryflags.io/au/flat/32.png)
