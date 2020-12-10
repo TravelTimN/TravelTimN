@@ -4,8 +4,6 @@
 
 I am a Full Stack Developer & Tutor. When I'm not developing, you can usually find me abroad somewhere, travelling the world! [View my Portfolio](https://tim.2bn.dev).
 
-[![Tim Nelson](https://raw.githubusercontent.com/TravelTimN/2BN-Tim/master/static/img/tim-nelson.png?raw=true)](https://tim.2bn.dev)
-
 ---
 
 ### Programming Languages
