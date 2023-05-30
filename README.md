@@ -77,6 +77,27 @@ I am a Full Stack Developer & Mentor at Code Institute, but have also been a Tut
 
 ---
 
-![TravelTimN on GitHb](https://github-readme-stats.vercel.app/api?username=traveltimn&show_icons=true?count_private=true&icon_color=d56627&bg_color=1e1e1e&title_color=01579B&text_color=ffffff)
+<!-- https://github.com/antonkomarev/github-profile-views-counter -->
 
----
+<details>
+<summary>Statistics</summary>
+
+  ![View Counter](https://komarev.com/ghpvc/?username=TravelTimN&style=for-the-badge&color=d56627&label=👁)
+  
+  ![TravelTimN on GitHb](https://github-readme-stats.vercel.app/api?username=traveltimn&show_icons=true?count_private=true&icon_color=d56627&bg_color=1e1e1e&title_color=01579B&text_color=ffffff)
+  
+  <p align="center">
+    <a href="https://github.com/TravelTimN">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TravelTimN&theme=transparent" />
+  </a>
+  <a href="https://github.com/TravelTimN">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=TravelTimN&hide_border=true&card_width=338&theme=transparent" />
+  </a>
+  <a href="https://github.com/TravelTimN">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=TravelTimN&theme=transparent" />
+  </a>
+  <a href="https://github.com/TravelTimN">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TravelTimN&langs_count=10&exclude_repo=&hide=jupyter,Shell,PHP,Procfile,%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp&layout=default&card_width=699&hide_border=true&theme=transparent" />
+  </a>
+</p>
+</details>
