@@ -1,7 +1,8 @@
+# https://github.com/lowlighter/metrics/blob/master/.github/readme/partials/documentation/setup/action.md
 name: Metrics
 on:
-  # Schedule daily updates
-  schedule: [{cron: "0 0 * * *"}]
+  # Schedule updates every Saturday at midnight UTC
+  schedule: [{cron: "0 0 * * 6"}]
   # (optional) Run workflow manually
   workflow_dispatch:
   # (optional) Run workflow when pushing on master/main
