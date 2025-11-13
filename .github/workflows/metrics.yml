@@ -20,5 +20,4 @@ jobs:
           user: traveltimn
           config_timezone: Europe/Dublin
           plugin_languages: yes
-          plugin_isocalendar: yes
-          plugin_stars: yes
+          plugin_languages_ignored: php, shell, dockerfile
