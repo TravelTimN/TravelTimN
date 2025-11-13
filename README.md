@@ -1,5 +1,7 @@
 # [Tim Nelson](https://tim.2bn.dev)
 
+![Metrics](/github-metrics.svg)
+
 ## "Hello, World!"
 
 I am a Full Stack Developer & Mentor at Code Institute, but have also been a Tutor, Assessor, and Content Creator as well. When I'm not developing, you can usually find me playing Minecraft on our global server, or abroad somewhere, travelling the world! [View my Portfolio](https://tim.2bn.dev).
@@ -80,3 +82,4 @@ I am a Full Stack Developer & Mentor at Code Institute, but have also been a Tut
 ![TravelTimN on GitHb](https://github-readme-stats.vercel.app/api?username=traveltimn&show_icons=true?count_private=true&icon_color=d56627&bg_color=1e1e1e&title_color=01579B&text_color=ffffff)
 
 ---
+
