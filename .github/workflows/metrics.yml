@@ -2,7 +2,8 @@
 name: Metrics
 on:
   # Schedule updates every Saturday at midnight UTC
-  schedule: [{cron: "0 0 * * 6"}]
+  # schedule: [{cron: "0 0 * * 6"}]
+  schedule: [{cron: "0 13 * * *"}]
   # (optional) Run workflow manually
   workflow_dispatch:
   # (optional) Run workflow when pushing on master/main
